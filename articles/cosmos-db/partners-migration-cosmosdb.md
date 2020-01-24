@@ -10,7 +10,7 @@ ms.date: 05/28/2019
 
 # Azure Cosmos DB NoSQL migration and application development partners
 
-From NoSQL migration to application development, you can choose from a variety of experienced systems integrator partners and tools to support your Azure Cosmos DB solutions. 
+From NoSQL migration to application development, you can find a variety of experienced systems integrator partners and tools to support your Azure Cosmos DB solutions. 
 
 ## Migration tools
 
